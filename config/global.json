@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "bleedstech": {
+            "applicationId": "bleedsparse",
+            "masterKey": "Ii27diV!uM"
+        }, 
+        "_default": {
+            "link": "bleedstech"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.1"
+    }
+}
