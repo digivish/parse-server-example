@@ -1,11 +1,11 @@
 {
     "applications": {
-        "bleedstech": {
+        "bleedsparse": {
             "applicationId": "bleedsparse",
             "masterKey": "Ii27diV!uM"
         }, 
         "_default": {
-            "link": "bleedstech"
+            "link": "bleedsparse"
         }
     }, 
     "global": {
